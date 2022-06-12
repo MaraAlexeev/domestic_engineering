@@ -1,0 +1,12 @@
+---
+title: "Domestic Engineering"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+---
+
+Here lies the reports of Mara's adventures in domestic engineering.
+
+
