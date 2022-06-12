@@ -5,7 +5,7 @@ title: "About Mara"
 I love R and love to investigate and learn new things!
 
 ```{r}
-#| fig-cap: Making waffles for with my oldest son for the first time.
+#| fig-cap: Making waffles with my oldest son for the first time.
 #| echo: false
 knitr::include_graphics("./images/eudoxus_making_waffles.jpg")
 ```
